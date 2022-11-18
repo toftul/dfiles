@@ -15,6 +15,8 @@ set -x PATH $HOME/.local/bin $PATH # add to PATH local bin
 set -x FZF_DEFAULT_OPTS "--reverse --height 40%" # fzf settings
 set -x RANGER_LOAD_DEFAULT_RC FALSE # make ranger read only local config
 
+# for pyenv
+pyenv init - | source
 
 # set abbreviations 
 abbr cp "cp -i"
