@@ -12,6 +12,7 @@ end
 
 # environmental variables
 set -x PATH $HOME/.local/bin $PATH # add to PATH local bin
+set -x PATH ~/.pyenv/bin $PATH
 set -x FZF_DEFAULT_OPTS "--reverse --height 40%" # fzf settings
 set -x RANGER_LOAD_DEFAULT_RC FALSE # make ranger read only local config
 
@@ -26,8 +27,9 @@ abbr mv "mv -i"
 abbr mkdir "mkdir -p"
 abbr up "sudo dnf up"
 abbr jl "jupyter lab"
-abbr jn "jupyter notebook"
+abbr jn "jupyter notebook /home/ivan/Documents/tmp_notebooks/notebook.ipynb"
 abbr swapclear "sudo swapoff -a && sudo swapon -a"
+abbr t "nvim ~/Cloud/todo.txt"
 
 # set prompt
 function fish_prompt --description 'Write out the prompt'
@@ -53,3 +55,5 @@ end
 function fish_mode_prompt
     # none - disable vim mode indicator
 end
+
+afetch
