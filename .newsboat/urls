@@ -1,18 +1,28 @@
+# linux
 https://archlinux.org/feeds/news/
+https://fedoramagazine.org/feed/
+https://www.latex-project.org/feed.xml
+# pop science
 https://api.quantamagazine.org/feed/
+# science
+http://feeds.aps.org/rss/tocsec/PRB-Surfacephysicsnanoscalephysicslowdimensionalsystems.xml
 https://feeds.feedburner.com/acs/apchd5
+http://feeds.aps.org/rss/recent/rmp.xml
 https://www.nature.com/nphoton.rss?error=cookies_not_supported&code=80002936-8e12-460d-9ec2-9425d7403d64
 http://feeds.aps.org/rss/recent/prlsuggestions.xml
 http://feeds.aps.org/rss/recent/prx.xml
+http://feeds.aps.org/rss/recent/prl.xml
 http://export.arxiv.org/rss/physics.optics
 https://asa.scitation.org/feed/jas/most-recent
-https://asa.scitation.org/feed/jas/most-cited
-https://meduza.io/rss/podcasts/signal
 https://www.science.org/action/showFeed?feed=rss&jc=sciadv&type=etoc
-https://www.latex-project.org/feed.xml
-https://www.fujirumors.com/feed/
-https://fedoramagazine.org/feed/
+https://opg.optica.org/rss/optica_feed.xml
+https://opg.optica.org/rss/ol_feed.xml
+# YouTube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6cqazSR6CnVMClY0bJI0Lg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxCFQfO05RinX6x_r5VVuiA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCN1Ew9bj3uc59nwZ2M5beSw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCBMw1W0Ep4oI6ICKH-WVHNg
+# Photo
+https://www.fujirumors.com/feed/
+# News
+https://meduza.io/rss/podcasts/signal
