@@ -1,28 +1,46 @@
+#
 # linux
-https://archlinux.org/feeds/news/
-https://fedoramagazine.org/feed/
-https://www.latex-project.org/feed.xml
+#
+---LINUX---
+https://archlinux.org/feeds/news/ linux
+https://fedoramagazine.org/feed/ linux
+https://www.latex-project.org/feed.xml linux
+#
 # pop science
-https://api.quantamagazine.org/feed/
+#
+---POP-SCIENCE---
+https://api.quantamagazine.org/feed/ "pop science"
+#
 # science
-http://feeds.aps.org/rss/tocsec/PRB-Surfacephysicsnanoscalephysicslowdimensionalsystems.xml
-https://feeds.feedburner.com/acs/apchd5
-http://feeds.aps.org/rss/recent/rmp.xml
-https://www.nature.com/nphoton.rss?error=cookies_not_supported&code=80002936-8e12-460d-9ec2-9425d7403d64
-http://feeds.aps.org/rss/recent/prlsuggestions.xml
-http://feeds.aps.org/rss/recent/prx.xml
-http://feeds.aps.org/rss/recent/prl.xml
-http://export.arxiv.org/rss/physics.optics
-https://asa.scitation.org/feed/jas/most-recent
-https://www.science.org/action/showFeed?feed=rss&jc=sciadv&type=etoc
-https://opg.optica.org/rss/optica_feed.xml
-https://opg.optica.org/rss/ol_feed.xml
+#
+---SCIENCE---
+http://feeds.aps.org/rss/tocsec/PRB-Surfacephysicsnanoscalephysicslowdimensionalsystems.xml science
+https://feeds.feedburner.com/acs/apchd5 science
+http://feeds.aps.org/rss/recent/rmp.xml science
+https://www.nature.com/nphoton.rss?error=cookies_not_supported&code=80002936-8e12-460d-9ec2-9425d7403d64 science
+http://feeds.aps.org/rss/recent/prlsuggestions.xml science
+http://feeds.aps.org/rss/recent/prx.xml science
+http://feeds.aps.org/rss/recent/prl.xml science
+http://export.arxiv.org/rss/physics.optics science
+https://asa.scitation.org/feed/jas/most-recent science
+https://www.science.org/action/showFeed?feed=rss&jc=sciadv&type=etoc science
+https://opg.optica.org/rss/optica_feed.xml science
+https://opg.optica.org/rss/ol_feed.xml science
+#
 # YouTube
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6cqazSR6CnVMClY0bJI0Lg
-https://www.youtube.com/feeds/videos.xml?channel_id=UCxCFQfO05RinX6x_r5VVuiA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCN1Ew9bj3uc59nwZ2M5beSw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCBMw1W0Ep4oI6ICKH-WVHNg
+#
+---YOUTUBE---
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6cqazSR6CnVMClY0bJI0Lg YouTube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxCFQfO05RinX6x_r5VVuiA YouTube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCN1Ew9bj3uc59nwZ2M5beSw YouTube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBMw1W0Ep4oI6ICKH-WVHNg YouTube
+#
 # Photo
-https://www.fujirumors.com/feed/
+#
+---PHOTO---
+https://www.fujirumors.com/feed/ photo
+#
 # News
-https://meduza.io/rss/podcasts/signal
+#
+---NEWS---
+https://meduza.io/rss/podcasts/signal news

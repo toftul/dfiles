@@ -6,6 +6,7 @@ reload-threads 4
 download-retries 4
 download-timeout 10
 prepopulate-query-feeds yes
+browser firefox
 
 
 # -- display -------------------------------------------------------------------
@@ -18,7 +19,12 @@ color listfocus blue default reverse bold
 color listfocus_unread blue default reverse bold
 
 text-width 80
+include /usr/share/doc/newsboat/contrib/colorschemes/inkpot
 
+# -- sub headings -------------------------------------------------------------
+
+highlight feedlist "---.*---" yellow default bold
+highlight feedlist ".*0/0.." default default invis
 
 # -- navigation ----------------------------------------------------------------
 
